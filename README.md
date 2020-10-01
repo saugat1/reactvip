@@ -1,5 +1,5 @@
 # fb-autoreaction
-Facebook Auto Reaction BOT 2017
+Facebook Auto Reaction BOT 2020
 
 # usage
 
