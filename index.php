@@ -15,8 +15,8 @@
 
     </div>
     <div class="header">
-        <h1 class="head">Reaction Bot By Nir
-        </h1>
+        <h2 class="head">Reaction Bot By Nir
+        </h2>
         <hr>
         <span>Block Fixed No Reaction Blocked... 😁</span>
         <hr>
@@ -28,7 +28,7 @@
 <div class="panel" style="z-index: 1000;">
     <button class="btn" data-toggle="modal" data-target="#exampleModal" style="padding: 0.5rem 2rem; margin-bottom: 15px;" >Get Token</button>
     <div class="login">
-        <h3>Login With Facebook</h3>
+        <h4>Login With Facebook</h4>
         <span>Enter a Valid Login Details to Activate Bot. Otherwise it won't work.</span>
         <div class="form-group"><label for="user">User Phone/Email</label>
             <br>
@@ -43,7 +43,7 @@
     <div class="token">
         <br>
         <hr />
-        <h3 style="padding: 10px 0;">Enter Your Token Here</h3>
+        <h2 style="padding: 10px 0;">Enter Your Token Here</h2>
         <div class="form-group">
             <label for="token"></label>
             <input type="text" name="token" id="token" class="token" placeholder="Paste Your token">
